@@ -5,8 +5,6 @@
 
 *Моя цель - понимать код и самостоятельно писать его.*
 
-[![Подписчики GitHub](https://img.shields.io/github/followers/looyni?style=flat&logo=github&label=Followers&color=db2777&labelColor=18181b)](https://github.com/ezhorina?tab=followers)
-[![Звёзды моих проектов](https://img.shields.io/github/stars/looyni?affiliations=OWNER&style=flat&logo=github&label=Stars&color=be185d&labelColor=18181b)](https://github.com/ezhorina?tab=repositories)
 
 ---
 
@@ -122,6 +120,8 @@ $ bash hello.sh
 [![Написать письмо](https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor2zharov@gmail.com)
 
 **Почта:** [egor2zharov@gmail.com](mailto:egor2zharov@gmail.com)
+**Учебное заведение:** Санкт-Петербургский институт экономики и управления
+**Группа:** ИР 11-26-11
 
 ---
 [^1]: Git — система контроля версий: она хранит историю изменений файлов и помогает сравнивать версии проекта.
