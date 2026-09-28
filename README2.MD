@@ -116,8 +116,8 @@ $ bash hello.sh
 
 ## Контакты
 
-[![Открыть мой GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezhorina)
-[![Написать письмо](https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor2zharov@gmail.com)
+[![Открыть мой GitHub](https://github.com/ezhorina)
+[![Написать письмо](mailto:egor2zharov@gmail.com)
 
 **Почта:** [egor2zharov@gmail.com](mailto:egor2zharov@gmail.com)
 **Учебное заведение:** Санкт-Петербургский институт экономики и управления
